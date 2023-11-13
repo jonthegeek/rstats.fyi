@@ -1,4 +1,5 @@
 Package: rstatsfyi
+Type: Book
 Title: The R Geek
 Version: 0.0.0.9000
 Authors@R: c(
