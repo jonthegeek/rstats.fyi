@@ -1,3 +1,5 @@
-## Now Available: Personalized R Instruction
+---
+title: "Make the Most of Your Data"
+---
 
-Let me teach you (or your team) the skills you need for *your particular use cases!*
+I am an expert R developer. I run the R4DS Online Learning Community, and have facilitated book clubs covering almost every area of the data science pipeline. My experience runs from basic data wrangling through working with web APIs and training/customizing large language models (in R).

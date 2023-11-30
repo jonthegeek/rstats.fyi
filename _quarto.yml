@@ -4,13 +4,14 @@ project:
     - CNAME
 
 website:
-  title: "rstats.fyi"
+  title: "#rstats.fyi"
+  site-url: https://rstats.fyi
   repo-url: https://github.com/jonthegeek/rstats.fyi
-  repo-actions: [edit, issue]
+  repo-actions: [source, issue]
   # google-analytics: "G-QQ1ZV766J5"
   # cookie-consent: true
   navbar:
-    # background: "#f0eeeb"
+    # background: "#445D48"
     # logo: images/r4ds-logo-150px.png
     # logo-alt: "R4DS Online Learning Community"
     # title: false
@@ -22,16 +23,24 @@ website:
       - icon: github
         href: https://github.com/jonthegeek/
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About Us
+      # - href: training.qmd
+      #   text: Training
+      # - href: about.qmd
+      #   text: About
+      - href: pd2023.qmd
+        text: Professional Development
+      # - href: contact.qmd
+      #   text: Contact
+  page-footer:
+    center:
+      - text: "© 2023 Jon Harmon"
+        href: https://rstats.fyi
 
 format:
   html:
     theme:
-      dark: darkly
-      light: flatly
+      dark: [flatly, theme.scss]
+      light: [darkly, theme.scss]
     css: styles.css
     toc: false
     link-external-newwindow: true
