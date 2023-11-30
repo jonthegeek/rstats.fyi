@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rstats.fyi/about.html</loc>
-    <lastmod>2023-11-14T13:05:24.110Z</lastmod>
+    <loc>https://rstats.fyi/pd2023.html</loc>
+    <lastmod>2023-11-30T16:55:35.289Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rstats.fyi/training.html</loc>
+    <lastmod>2023-11-30T16:55:34.709Z</lastmod>
   </url>
   <url>
     <loc>https://rstats.fyi/index.html</loc>
-    <lastmod>2023-11-14T13:05:22.582Z</lastmod>
+    <lastmod>2023-11-30T16:55:33.561Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rstats.fyi/about.html</loc>
+    <lastmod>2023-11-30T16:55:34.425Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rstats.fyi/contact.html</loc>
+    <lastmod>2023-11-30T16:55:34.977Z</lastmod>
   </url>
 </urlset>

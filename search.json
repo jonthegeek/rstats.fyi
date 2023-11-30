@@ -1,23 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "pd2023.html",
+    "href": "pd2023.html",
+    "title": "Professional Development",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Contact me today to discuss how to make the most of your 2023 professional development budget!\nI am an expert R developer. I run the R4DS Online Learning Community, and have facilitated book clubs covering almost every area of the data science pipeline. My experience runs from basic data wrangling through working with web APIs and training/customizing large language models (in R).\nLet me teach you (or your team) the R and RStudio skills you need for your particular use cases! I’ll work with you to develop a training program that meets your needs.\nThe standard package ($1000) involves an up to 1-hour Zoom call before the workshop to work out your specific pain points, followed by a full-day (8 hours) online workshop for you and up to seven colleagues to teach you the skills you need to eliminate those pain points.\nIf that’s too much or too little for your budget, let me know and we can see what works for you!\n\nOptions include:\n\nGetting started with data\nCommunicating results with ggplot2 and Quarto\nAnalysis efficiency and reproducibility with internal R packages\nModeling data and making predictions with tidymodels\nMaking the most of Posit Connect\nBuilding interactive web applications with Shiny\nSetting up a continuing education program for your team"
+  },
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Personalized Training",
+    "section": "",
+    "text": "We’ll work with you to develop a training program that meets your needs.\n\nOptions include:\n\nGetting started with data\nCommunicating results with ggplot2 and Quarto\nAnalysis efficiency and reproducibility with internal R packages\nModeling data and making predictions with tidymodels\nMaking the most of Posit Connect\nBuilding interactive web applications with Shiny\nSetting up a continuing education program for your team"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "rstats.fyi",
+    "title": "Make the Most of Your Data",
     "section": "",
-    "text": "Let me teach you (or your team) the skills you need for your particular use cases!"
+    "text": "I am an expert R developer. I run the R4DS Online Learning Community, and have facilitated book clubs covering almost every area of the data science pipeline. My experience runs from basic data wrangling through working with web APIs and training/customizing large language models (in R)."
   },
   {
-    "objectID": "index.html#now-available-personalized-r-instruction",
-    "href": "index.html#now-available-personalized-r-instruction",
-    "title": "rstats.fyi",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
     "section": "",
-    "text": "Let me teach you (or your team) the skills you need for your particular use cases!"
+    "text": "We are a"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Us",
+    "section": "",
+    "text": "TODO: Contact form and email"
   }
 ]
