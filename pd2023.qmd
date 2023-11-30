@@ -1,0 +1,23 @@
+---
+title: "Professional Development"
+---
+
+[Contact me today](https://docs.google.com/forms/d/e/1FAIpQLSfei-fRJjWIL_D1NUzWLTT2wmdPKprIbcWAyYAjPrdyawAZvg/viewform) to discuss how to make the most of your 2023 professional development budget!
+
+I am an expert R developer. I run the R4DS Online Learning Community, and have facilitated book clubs covering almost every area of the data science pipeline. My experience runs from basic data wrangling through working with web APIs and training/customizing large language models (in R).
+
+Let me teach you (or your team) the R and RStudio skills you need for your particular use cases! I'll work with you to develop a training program that meets your needs.
+
+The standard package ($1000) involves an up to 1-hour Zoom call before the workshop to work out your specific pain points, followed by a full-day (8 hours) online workshop for you and up to seven colleagues to teach you the skills you need to eliminate those pain points.
+
+If that's too much or too little for your budget, let me know and we can see what works for you!
+
+### Options include:
+
+-   Getting started with data
+-   Communicating results with ggplot2 and Quarto
+-   Analysis efficiency and reproducibility with internal R packages
+-   Modeling data and making predictions with tidymodels
+-   Making the most of Posit Connect
+-   Building interactive web applications with Shiny
+-   Setting up a continuing education program for your team

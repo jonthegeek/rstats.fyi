@@ -1,0 +1,15 @@
+---
+title: "Personalized Training"
+---
+
+We'll work with you to develop a training program that meets your needs.
+
+### Options include:
+
+-   Getting started with data
+-   Communicating results with ggplot2 and Quarto
+-   Analysis efficiency and reproducibility with internal R packages
+-   Modeling data and making predictions with tidymodels
+-   Making the most of Posit Connect
+-   Building interactive web applications with Shiny
+-   Setting up a continuing education program for your team
